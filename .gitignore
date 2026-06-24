@@ -1,0 +1,15 @@
+# Virtual environment — never upload this
+venv/
+
+# Secret keys — never upload this
+.env
+
+# Mac system file — irrelevant to the project
+.DS_Store
+
+# Python cache files — auto-generated, not needed
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
